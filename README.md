@@ -8,7 +8,7 @@ I am Linux system engineer (CentOS, RHEL, Debian, etc..) and I am write my code 
 
 ### My Hobbies   
 
+
 My hobbies are Daylight linux for Raspberry Pi (I am the main developer and the founder) and I have writed a book about Linux [Le guide complet de Linux Debian 10 Buster](https://www.eyrolles.com/Litterature/Livre/le-guide-complet-de-linux-debian-10-buster-9782754308274/)
 
-
-<a href="https://github.com/hamdyaea/hamdyaea/actions"><img src="https://github.com/hamdyaea/hamdyaea/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+![Awesome](awesome.svg) ![Build passing](build.svg) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![Python](python.png)  
