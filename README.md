@@ -1,11 +1,11 @@
-Currently working on [Daylight Linux for Raspberry Pi](https://www.daylightlinux.ch) and [Astrometry](https://www.astrometry.ch).
+Currently working on [Daylight Linux for Raspberry Pi](http://www.daylightlinux.ch) and [Astrometry](http://www.astrometry.ch).
 
 <table><tr><td valign="top" width="33%">
 
 ### Hamdy Abou El Anein  :sunglasses:
  
 I am Linux system engineer :penguin:  (CentOS, RHEL, Debian, etc..) and I am write my code must of the time in Python :snake:  and Bash.
-i
+ii
 ### My Hobbies   
 
 
