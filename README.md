@@ -2,10 +2,10 @@ Currently working on [Daylight Linux for Raspberry Pi](https://www.daylightlinux
 
 <table><tr><td valign="top" width="33%">
 
-### Hamdy Abou El Anein   
+### Hamdy Abou El Anein  :sunglasses:
  
-I am Linux system engineer (CentOS, RHEL, Debian, etc..) and I am write my code must of the time in Python and Bash.
-
+I am Linux system engineer :penguin:  (CentOS, RHEL, Debian, etc..) and I am write my code must of the time in Python :snake:  and Bash.
+i
 ### My Hobbies   
 
 
