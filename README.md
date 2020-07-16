@@ -1,16 +1,14 @@
-### Hi there 👋
+Currently working on [Daylight Linux for Raspberry Pi](https://www.daylightlinux.ch) and [Astrometry](https://www.astrometry.ch).
 
-<!--
-**hamdyaea/hamdyaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table><tr><td valign="top" width="33%">
 
-Here are some ideas to get you started:
+### Hamdy Abou El Anein   
+ 
+I am Linux system engineer (CentOS, RHEL, Debian, etc..) and I am write my code must of the time in Python and Bash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Hobbies   
+
+My hobbies are Daylight linux for Raspberry Pi (I am the main developer and the founder) and I have writed a book about Linux [Le guide complet de Linux Debian 10 Buster](https://www.eyrolles.com/Litterature/Livre/le-guide-complet-de-linux-debian-10-buster-9782754308274/)
+
+
+<a href="https://github.com/hamdyaea/hamdyaea/actions"><img src="https://github.com/hamdyaea/hamdyaea/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
