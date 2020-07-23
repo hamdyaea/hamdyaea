@@ -6,7 +6,7 @@ Currently working on [Daylight Linux for Raspberry Pi](http://www.daylightlinux.
  
 I am a Linux system engineer :penguin:  (CentOS, RHEL, Debian, etc..) and I am writing my code must of the time in Python :snake:  and Bash.
 
-i
+
 ### My Hobbies   
 
 
