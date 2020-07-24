@@ -2,10 +2,11 @@ Currently working on [Daylight Linux for Raspberry Pi](http://www.daylightlinux.
 
 <table><tr><td valign="top" width="33%">
 
-### About me ![linux inside](https://github.com/hamdyaea/hamdyaea/blob/master/Linux-Inside-Logo-1.gif)
- 
+### About me
+
 I am a Linux system engineer :penguin:  (CentOS, RHEL, Debian, etc..) and I am writing my code must of the time in Python :snake:  and Bash.
 
+![linux inside](https://github.com/hamdyaea/hamdyaea/blob/master/Linux-Inside-Logo-1.gif)
 
 ### My Hobbies   
 
