@@ -6,10 +6,10 @@ Currently working on [Daylight Linux for Raspberry Pi](http://www.daylightlinux.
  
 I am a Senior Linux system engineer :penguin:  (CentOS, RHEL, Debian, etc..) and I am writing my code must of the time in Python :snake:  and Bash.
 
-![linux inside](https://github.com/hamdyaea/hamdyaea/blob/master/Linux-Inside-Logo-1.gif)                       ![redhat](https://github.com/hamdyaea/hamdyaea/blob/master/redhat.png)
+![linux inside](https://github.com/hamdyaea/hamdyaea/blob/master/Linux-Inside-Logo-1.gif)                       ![RockyLinux](https://github.com/hamdyaea/hamdyaea/blob/master/rocky_linux.png)
 
 ### My linux system  engineering life   
-
+i
 
 I am the main developer and the founder of Daylight linux for Raspberry Pi and I have writed a book :notebook_with_decorative_cover:  about Linux    [1) Le guide complet de Linux Debian 10 Buster](https://www.eyrolles.com/Litterature/Livre/le-guide-complet-de-linux-debian-10-buster-9782754308274/) [2) or also available here](https://www.payot.ch/Detail/le_guide_complet_de_linux_debian_10_buster-abou_el_anein_hamdy-9782754308274?fp=11)
 
