@@ -7,7 +7,9 @@ Currently working on [Software-coders.ch](https://software-coders.ch/),  [Daylig
 I am a Senior Linux system engineer :penguin:  (CentOS, RHEL, Debian, etc..) and I am writing my code must of the time in Python :snake:  and Bash.
 
 
-![linux inside](https://github.com/hamdyaea/hamdyaea/blob/master/Linux-Inside-Logo-1.gif)![RockyLinux](https://github.com/hamdyaea/hamdyaea/blob/master/rocky_linux_small.png)     
+![linux inside](https://github.com/hamdyaea/hamdyaea/blob/master/Linux-Inside-Logo-1.gif)![RockyLinux](https://github.com/hamdyaea/hamdyaea/blob/master/rocky_linux_small.png)          
+    
+https://software-coders.ch/    
 ![software-coders.ch](https://github.com/hamdyaea/hamdyaea/blob/master/Logosoft.png)
 
 ### My Life as a Linux System Engineer         
