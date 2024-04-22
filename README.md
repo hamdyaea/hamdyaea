@@ -15,7 +15,7 @@ https://software-coders.ch/
 ### My Life as a Linux System Engineer         
 
 
-I am the main developer and the founder of Daylight linux for Raspberry Pi and I have writed a book :notebook_with_decorative_cover:  about Linux    [1) Le guide complet de Linux Debian 10 Buster](https://www.eyrolles.com/Litterature/Livre/le-guide-complet-de-linux-debian-10-buster-9782754308274/) [2) or also available here](https://www.payot.ch/Detail/le_guide_complet_de_linux_debian_10_buster-abou_el_anein_hamdy-9782754308274?fp=11)
+I am the main developer and the founder of Daylight linux for Raspberry Pi and I have writed many books about linux and programming :notebook_with_decorative_cover:    [My books](https://www.amazon.fr/stores/Hamdy-Abou-El-Anein/author/B0BM89T88X?ref=sr_ntt_srch_lnk_2&qid=1713780939&sr=8-2&isDramIntegrated=true&shoppingPortalEnabled=true)
 
 ![Awesome](https://github.com/hamdyaea/hamdyaea/blob/master/awesome.svg)    ![Build passing](https://github.com/hamdyaea/hamdyaea/blob/master/build.svg)    [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)    ![Code quality](https://github.com/hamdyaea/hamdyaea/blob/master/codequalityA.svg)     ![GitHub followers](https://img.shields.io/github/followers/hamdyaea)    
 
