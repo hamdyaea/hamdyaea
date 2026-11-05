@@ -31,6 +31,12 @@ My work sits at the intersection of **Linux engineering, Python, Bash, Rust, ope
 
 I hold a **Swiss Federal Professional Certificate in ICT (Systems and Networks)**, alongside **LPIC-1 and LPIC-2** qualifications. I also teach and mentor people learning Linux and programming, and write technical books.
 
+## Linux kernel contributions
+
+I contribute patches to the Linux kernel’s development scripts. [Browse my patches and review discussions](https://lore.kernel.org/all/?q=Hamdy%20Abou%20El%20Anein).
+
+In one patch, I updated a script to check that an abbreviated Git object ID identifies a commit before using it in a Fixes tag. [Read the patch and review thread](https://lore.kernel.org/all/20261104054332.10869-1-info@daylightlinux.ch/#t).
+
 ## Selected projects
 
 | Project | What I build |
