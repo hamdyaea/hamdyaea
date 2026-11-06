@@ -31,11 +31,21 @@ My work sits at the intersection of **Linux engineering, Python, Bash, Rust, ope
 
 I hold a **Swiss Federal Professional Certificate in ICT (Systems and Networks)**, alongside **LPIC-1 and LPIC-2** qualifications. I also teach and mentor people learning Linux and programming, and write technical books.
 
+<!-- kernel-contributions:start -->
 ## Linux kernel contributions
 
-I contribute patches to the Linux kernel’s development scripts. [Browse my patches and review discussions](https://lore.kernel.org/all/?q=Hamdy%20Abou%20El%20Anein).
+I, **Hamdy Abou El Anein**, contribute patches to the Linux kernel's development scripts. These changes focus on preserving diagnostic text, checking Kconfig symbols, and resolving Git references.
 
-In one patch, I updated a script to check that an abbreviated Git object ID identifies a commit before using it in a Fixes tag. [Read the patch and review thread](https://lore.kernel.org/all/20261104054332.10869-1-info@daylightlinux.ch/#t).
+| Contribution | Purpose | Documented milestone |
+| :--- | :--- | :--- |
+| [decode_stacktrace: preserve input while reading lines](https://lore.kernel.org/all/20261103164203.129660-1-info@daylightlinux.ch/) | Preserve whitespace, backslashes and a final line without a newline. | [Andrew Morton announced its addition to -mm / mm-nonmm-unstable](https://lore.kernel.org/mm-commits/20261103204853.F0FFB1F000C1@smtp.kernel.org/) on 3 November 2026, with Sasha Levin's Acked-by. |
+| [checkkconfigsymbols: check the complete numeric token](https://lore.kernel.org/all/20261103164203.129644-1-info@daylightlinux.ch/) | Keep names such as 64BIT_MISSING visible to the undefined-symbol check. | Reviewed-by from Nathan Chancellor received on 6 November 2026. |
+| [git-resolve: check the Git object type, v2](https://lore.kernel.org/all/20261104054332.10869-1-info@daylightlinux.ch/) | Verify that an abbreviated object ID identifies a commit before using it in a Fixes reference. | Version 2 submitted on 4 November 2026 following review. |
+
+Updated 6 November 2026. **Review approval and inclusion in a maintainer branch are distinct from a mainline merge; no mainline merge is claimed here.** AI assistance is disclosed in the patch submissions.
+
+[Hamdy Abou El Anein's patches and review discussions on Lore](https://lore.kernel.org/all/?q=Hamdy%20Abou%20El%20Anein) · [Contribution details and status in French](https://software-coders.ch/hamdy-abou-el-anein/#contributions-linux)
+<!-- kernel-contributions:end -->
 
 ## Selected projects
 
