@@ -73,15 +73,18 @@ Updated 13 November 2026. **Review approval and inclusion in a maintainer branch
 [Hamdy Abou El Anein's patches and review discussions on Lore](https://lore.kernel.org/all/?q=Hamdy%20Abou%20El%20Anein) · [Contribution details and status in French](https://software-coders.ch/hamdy-abou-el-anein/#contributions-linux)
 <!-- kernel-contributions:end -->
 
-## Selected projects
+## Selected projects: technical portfolio
 
-| Project | What I build |
+| Project | Engineering evidence |
 | :--- | :--- |
-| **[Daylight GNU/Linux](https://github.com/hamdyaea/Daylight-GNU-Linux)** · [Website](https://daylightlinux.ch/) | Founder and lead developer of a lightweight Linux experience for Raspberry Pi, with a desktop, packaging, and a browser-based demo. |
-| **[Coreutils in Rust](https://github.com/hamdyaea/coreutils-rust)** | A Rust-based reimplementation project exploring familiar Unix command-line utilities. |
-| **[Astrometry](https://github.com/hamdyaea/SolarSystemPercentage)** · [Website](https://astrometry.ch/) | An educational astronomy project presenting orbital datasets through a lightweight, accessible website. |
-| **[Software-Coders.ch](https://software-coders.ch/)** | My technical training and consulting initiative, focused on Linux, Python, Bash, Go, Rust, and cybersecurity. |
-| **[Linux automation with Ansible](https://github.com/hamdyaea/Manjaro-Linux-ansible)** | Practical Linux provisioning and automation workflows. |
+| **[Daylight GNU/Linux](https://github.com/hamdyaea/Daylight-GNU-Linux)** · [Website](https://daylightlinux.ch/) | Linux distribution integration, Debian/APT packaging, release workflows and Raspberry Pi desktop tooling. |
+| **[WhyDown](https://github.com/hamdyaea/WhyDown)** | Rust-based, read-only Linux diagnostics with CLI, TUI and Qt6 GUI, evidence-driven findings and distribution packaging. |
+| **[ShellTrace](https://github.com/hamdyaea/ShellTrace)** | Rust systems tooling using filesystem snapshots and `strace` to investigate command behaviour, with documented security limits. |
+| **[Syracuse](https://github.com/hamdyaea/Syracuse)** | Parallel Rust computation, SQLite persistence, checkpointing, correctness tests and Python visualization. |
+| **[Linux automation with Ansible](https://github.com/hamdyaea/Manjaro-Linux-ansible)** | Linux provisioning and automation workflows. |
+| **[Coreutils in Rust](https://github.com/hamdyaea/coreutils-rust)** | Rust exploration of familiar Unix command-line utilities. |
+
+Other interests include [astronomy software](https://github.com/hamdyaea/SolarSystemPercentage) and [technical education](https://software-coders.ch/).
 
 ## Engineering focus
 
