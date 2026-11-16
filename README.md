@@ -23,6 +23,31 @@ Based in Switzerland · 15+ years in Linux and systems engineering
 
 ---
 
+## Engineering expertise for recruiters
+
+I bring **15+ years of professional experience** operating and troubleshooting Linux systems in enterprise environments, alongside hands-on open-source development.
+
+| Area | Relevant experience |
+| --- | --- |
+| **Linux & infrastructure** | Debian, Ubuntu, RHEL, SLES, enterprise operations, virtualization, system hardening and incident investigation |
+| **Automation & DevOps** | Python, Bash, Ansible, Terraform, GitLab CI, GitHub Actions and reproducible operational workflows |
+| **Containers & platforms** | Docker, Kubernetes, Helm, K3s and Linux service integration |
+| **Observability & security** | Splunk, rsyslog, Prometheus, Grafana, TLS, networking and evidence-based diagnostics |
+| **Software engineering** | Rust and Python CLI tools, testing, packaging, documentation and open-source maintenance |
+
+### Selected engineering work
+
+- **[WhyDown](https://github.com/hamdyaea/WhyDown)** — read-only Linux diagnostics with evidence from system state and journals; Rust CLI, terminal interface and Qt desktop GUI.
+- **[ShellTrace](https://github.com/hamdyaea/ShellTrace)** — Rust-based command-behaviour investigation using filesystem comparisons and syscall tracing, with explicitly documented isolation limits.
+- **[Daylight GNU/Linux](https://github.com/hamdyaea/Daylight-GNU-Linux)** — Linux distribution engineering for Raspberry Pi OS and Debian, including APT packaging, installation workflows and desktop integration.
+- **[Syracuse](https://github.com/hamdyaea/Syracuse)** — Python and Rust numerical research tooling, focused on efficient computation and reproducible exploration.
+
+**Professional focus:** Senior Linux Engineering · DevOps / Platform Engineering · Site Reliability · Linux Security / DevSecOps.
+
+These repositories demonstrate personal open-source engineering work; enterprise experience is summarized separately above.
+
+---
+
 ## About me
 
 I'm a Switzerland-based **Senior Linux Systems Engineer** with over 15 years of experience in Linux administration, infrastructure operations, troubleshooting, and automation.
