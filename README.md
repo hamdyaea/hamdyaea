@@ -23,6 +23,24 @@ Based in Switzerland · 15+ years in Linux and systems engineering
 
 ---
 
+## Featured project: Linux Time Machine
+
+**[Linux Time Machine — Try it live](https://linuxtimemachine.org/)**
+
+An interactive journey through Linux history, running genuine historical Linux kernels in an **x86 emulator directly in the browser**, with no installation required.
+
+- **1991:** Boot Linux 0.01, the first publicly released version of Linus Torvalds' kernel, and explore its original command-line environment.
+- **1993:** Explore an early Linux distribution and its historical kernel.
+- **1998:** Experience Red Hat Linux 5.2 and its era's Linux environment.
+- **2004:** Explore a desktop recreation inspired by Linux in 2004.
+- **Today:** Try the Daylight GNU/Linux web-live desktop.
+
+The 1991, 1993 and 1998 experiences use historical kernels; the 2004 desktop is a **recreation on a modern kernel**, not a claim to run an original 2004 kernel. Built with browser-based x86 virtualization and static hosting on Cloudflare Pages.
+
+**[Launch Linux Time Machine](https://linuxtimemachine.org/)**
+
+---
+
 ## Engineering expertise for recruiters
 
 I bring **15+ years of professional experience** operating and troubleshooting Linux systems in enterprise environments, alongside hands-on open-source development.
@@ -77,7 +95,7 @@ Updated 13 November 2026. **Review approval and inclusion in a maintainer branch
 
 | Project | Engineering evidence |
 | :--- | :--- |
-| **[Daylight GNU/Linux](https://github.com/hamdyaea/Daylight-GNU-Linux)** · [Website](https://daylightlinux.ch/) | Linux distribution integration, Debian/APT packaging, release workflows and Raspberry Pi desktop tooling. |
+| **[Linux Time Machine](https://linuxtimemachine.org/)** | Browser-based x86 emulation of authentic Linux kernels from 1991, 1993 and 1998, alongside 2004 and modern desktop experiences. |\n| **[Daylight GNU/Linux](https://github.com/hamdyaea/Daylight-GNU-Linux)** · [Website](https://daylightlinux.ch/) | Linux distribution integration, Debian/APT packaging, release workflows and Raspberry Pi desktop tooling. |
 | **[WhyDown](https://github.com/hamdyaea/WhyDown)** | Rust-based, read-only Linux diagnostics with CLI, TUI and Qt6 GUI, evidence-driven findings and distribution packaging. |
 | **[ShellTrace](https://github.com/hamdyaea/ShellTrace)** | Rust systems tooling using filesystem snapshots and `strace` to investigate command behaviour, with documented security limits. |
 | **[Syracuse](https://github.com/hamdyaea/Syracuse)** | Parallel Rust computation, SQLite persistence, checkpointing, correctness tests and Python visualization. |
@@ -109,7 +127,7 @@ I help learners and professionals build real-world technical skills through hand
 I'm interested in meaningful conversations about **Linux engineering, infrastructure automation, open source, and technical collaboration**.
 
 **Email:** [info@daylightlinux.ch](mailto:info@daylightlinux.ch)
-**Projects:** [Daylight Linux](https://daylightlinux.ch/) · [Astrometry](https://astrometry.ch/) · [Software-Coders](https://software-coders.ch/)
+**Projects:** [Linux Time Machine](https://linuxtimemachine.org/) · [Daylight Linux](https://daylightlinux.ch/) · [Astrometry](https://astrometry.ch/) · [Software-Coders](https://software-coders.ch/)
 
 ---
 
